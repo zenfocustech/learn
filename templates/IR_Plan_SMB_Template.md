@@ -1,6 +1,11 @@
-lan
+# Incident Response Plan
 
-**Organization:** [Company Name] **Plan Owner (IR Lead):** [Name/Title] **Version:** [1.0] **Last Reviewed:** [Date] **Next Review Due:** [Date, at least annually] **Governing Policy:** Incident Response Policy
+**Organization:** [Company Name] 
+**Plan Owner (IR Lead):** [Name/Title] 
+**Version:** [1.0] 
+**Last Reviewed:** [Date] 
+**Next Review Due:** [Date, at least annually] 
+**Governing Policy:** [Incident Response Policy]
 
 > **Keep a printed copy of Sections 1 and 2 in a known location. If email and systems are down, you still need this.**
 
